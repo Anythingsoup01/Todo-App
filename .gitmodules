@@ -1,0 +1,6 @@
+[submodule "vendor/Spider"]
+	path = vendor/Spider
+	url = https://github.com/Anythingsoup01/Spider
+[submodule "vendor/spdlog"]
+	path = vendor/spdlog
+	url = https://github.com/gabime/spdlog

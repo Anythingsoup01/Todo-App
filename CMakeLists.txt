@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 4.3.0)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+project(application-wks LANGUAGES CXX)
+add_subdirectory(Application)
+add_subdirectory(vendor/Spider)
